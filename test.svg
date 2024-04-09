@@ -24,7 +24,9 @@
       <div class="container">
         <h1>Test</h1>
          <div class="pic">
-            <image href="https://github.com/jorgeccst/jorgeccst/blob/main/img/logo_juego_copia.png" height="200" width="300" />
+            <a href="https://github.com/jorgeccst/jorgeccst/blob/main/img/logo_juego.svg">
+		        <img src="logo_juego.svg" width="300" height="200">
+	          </a>
          </div>
       </div>
      
