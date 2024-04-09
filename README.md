@@ -8,8 +8,9 @@
 <details>
 <summary>About the project 🎮</summary>
 	<p>
-	Top down RPG being developed by a small team in our free time on Unity engine, expected platform: PC.
+	16-bit style pixel art top down RPG being developed by a small team in our free time on Unity engine, expected platform: PC.
 	</p>
+	<img src="img/Capture.PNG" width="500px" height="300px"/>
 </details>
 
 Jorge Crespo
