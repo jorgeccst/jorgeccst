@@ -18,5 +18,5 @@ Jorge Crespo
 #### Hello! Welcome to my profile.👋
 I'm a developer from Spain with experience with JAVA|C#|JAVASCRIPT.
 <br>
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/](https://www.linkedin.com/in/jorge-crespo-3b8599262/))
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jorge-crespo-3b8599262/](https://www.linkedin.com/in/jorge-crespo-3b8599262/))
 
