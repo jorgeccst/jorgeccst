@@ -5,7 +5,7 @@
       <style>
        @font-face {
           font-family: CHNOPixelCodePro-Regular;
-          src: url(CHNOPixelCodePro-Regular.ttf);
+          src: url(/img/CHNOPixelCodePro-Regular.ttf) format('truetype');
           }
         .container {
           display: flex;
