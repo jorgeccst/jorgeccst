@@ -13,7 +13,10 @@
       </style>
 
       <div class="container">
-        <h1>Test</h1>       
+        <h1>Test</h1>
+        <a href="https://github.com/jorgeccst/jorgeccst/blob/main/img/logojuego.svg">
+          <img src="logojuego.svg" width="2000" height="2000">
+        </a>
       </div>     
     </div>
   </foreignObject>
